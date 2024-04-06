@@ -27,9 +27,5 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any inquiries or suggestions regarding the AI Doctor project, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
 ```
 
-You can copy this markdown and replace the placeholders with actual information relevant to your project. This format is commonly used on GitHub to provide project documentation and instructions.
