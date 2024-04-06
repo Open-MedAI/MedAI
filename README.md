@@ -1,9 +1,7 @@
-Certainly! Below is the GitHub README file format based on your provided template:
 
 ```markdown
 # AI Doctor: Open Source Disease Diagnosis Assistant
 
-![AI Doctor Logo](insert_logo_here.png)
 
 ## Overview
 
