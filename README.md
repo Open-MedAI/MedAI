@@ -14,30 +14,6 @@ The AI Doctor project is an open-source initiative aimed at providing assistance
 - **User-Friendly Interface**: Simple and intuitive user interface for ease of use.
 - **Privacy and Security**: Ensuring the confidentiality and security of user data is our top priority.
 
-## Getting Started
-
-To get started with AI Doctor, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/ai-doctor.git
-   ```
-
-2. Install the necessary dependencies:
-
-   ```bash
-   cd ai-doctor
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-
-   ```bash
-   python app.py
-   ```
-
-4. Access the application through your web browser at `http://localhost:5000`.
 
 ## Contributing
 
